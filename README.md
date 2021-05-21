@@ -12,11 +12,11 @@ trying to work on improving my SkateBuddy mobile app which is build on React Nat
 ## My Languages and tools
 
 
-![JavaScript-logo 1](https://user-images.githubusercontent.com/74493215/119163199-76a13a00-ba5b-11eb-8154-caa94971338c.png)
-![download 2](https://user-images.githubusercontent.com/74493215/119163153-6b4e0e80-ba5b-11eb-8ca6-117d7c1d36e6.png)
-![download-2 2](https://user-images.githubusercontent.com/74493215/119164195-73f31480-ba5c-11eb-8ed6-a0386539571b.png)
-![download-4 2](https://user-images.githubusercontent.com/74493215/119164208-79505f00-ba5c-11eb-8e39-7b7c82a9d08a.png)
-![download-1 3](https://user-images.githubusercontent.com/74493215/119164295-8d945c00-ba5c-11eb-90e8-a74c17bd1ecc.png)
+<code>![JavaScript-logo 1](https://user-images.githubusercontent.com/74493215/119163199-76a13a00-ba5b-11eb-8154-caa94971338c.png)</code>
+<code>![download 2](https://user-images.githubusercontent.com/74493215/119163153-6b4e0e80-ba5b-11eb-8ca6-117d7c1d36e6.png)</code>
+<code>![download-2 2](https://user-images.githubusercontent.com/74493215/119164195-73f31480-ba5c-11eb-8ed6-a0386539571b.png)</code>
+<code>![download-4 2](https://user-images.githubusercontent.com/74493215/119164208-79505f00-ba5c-11eb-8e39-7b7c82a9d08a.png)</code>
+<code>![download-1 3](https://user-images.githubusercontent.com/74493215/119164295-8d945c00-ba5c-11eb-90e8-a74c17bd1ecc.png)</code>
 
 
 
