@@ -12,11 +12,11 @@ trying to work on improving my SkateBuddy mobile app which is build on React Nat
 
 ## My Languages and tools
 
-<code><img alt="JavaScript" scr="assets/javascript.png" ></code>
-<code><img alt="React" scr="assets/react.png" ></code>
-<code><img alt="Angular" scr="assets/angular.png" ></code>
-<code><img alt="CSS" scr="assets/css.png" ></code>
-<code><img alt="MongoDB" scr="assets/mongodb.png" ></code>
+<code><img alt="JavaScript" src="assets/javascript.png" ></code>
+<code><img alt="React" src="assets/react.png" ></code>
+<code><img alt="Angular" src="assets/angular.png" ></code>
+<code><img alt="CSS" src="assets/css.png" ></code>
+<code><img alt="MongoDB" src="assets/mongodb.png" ></code>
 
 
 
