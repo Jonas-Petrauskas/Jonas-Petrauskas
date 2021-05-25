@@ -10,9 +10,12 @@ In a former life I was customer service representative and Chef 👨‍🍳,  so
 
 - 👯 I’m looking to collaborate on open source projects.
 
+## Previous project
+
+- I was responsible for implementing E2E, Integration and Unit testing for [@Elephant](https://github.com/stevo95/Elephant) project 🧪
 ### Hobbies
 
-- During my free time you can find me hitting streets with my Skateboard or cooking different types of food.
+- During my free time you can find me hitting streets with my Skateboard 🛹 or cooking different types of food 🍱
 
 
 ## My Languages and tools
