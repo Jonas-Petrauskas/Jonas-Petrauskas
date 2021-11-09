@@ -7,6 +7,7 @@
 </a>
 
 <br />
+<br />
 
 I'm a Full Stack Developer :computer:, with UI/UX skills and a strong passion for a Frontend, currently living in Barcelona, Spain 🌞 <br>
 Since graduating from [Codeworks](https://codeworks.me/), I've been living and breathing code, focusing on learning to write clean and DRY code, and working on various projects. <br>
