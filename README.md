@@ -10,11 +10,11 @@
 <br />
 
 I'm a Full Stack Developer :computer:, with UI/UX skills and a strong passion for a Frontend, currently living in Barcelona, Spain 🌞 <br>
-Since graduating from [Codeworks](https://codeworks.me/), I've been living and breathing code, focusing on learning to write clean and DRY code, and working on various projects. <br>
+Since graduating from [Codeworks](https://codeworks.me/), I've been living and breathing code, focusing on learning new programing concepts, and working on various projects. <br>
 
 ## What I'm doing now
 - Currently working on my personal project [@SkateBuddy](https://github.com/Jonas-Petrauskas/Skate-Buddy). It's a mobile application aiming to provide better accessibility in finding skate spots in Barcelona, Spain.
-- Get my hands on [ReactJs](https://reactjs.org/), and build projects like [Weather_App](https://github.com/Jonas-Petrauskas/Weather_app) and [Sliding-sections](https://github.com/Jonas-Petrauskas/CCT-sliding-sections).
+- Geting my hands on [ReactJs](https://reactjs.org/), and building projects like [Weather_App](https://github.com/Jonas-Petrauskas/Weather_app) and [Sliding-sections](https://github.com/Jonas-Petrauskas/CCT-sliding-sections).
 
 ## My previous projects
 - [@DevStack](https://github.com/DevStack-LTD), in this project I was mainly responsible for the Frontend role and wireframing design of the website.
